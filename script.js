@@ -10,3 +10,5 @@ if (media > 8) {
 }else {
     alert('Infezlimente foi reprovado!');
 }
+
+//novo comentario
